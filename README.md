@@ -42,3 +42,8 @@ Components:
 | TXD0 GPIO1  | MAX485 TXD       | 
 | RXD0 GPIO3  | MAX485 RFX       | 
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/jindrich296/sensor-temp-hum-CWT-TH03S-via-RS485/blob/main/IMG_2034.jpg)
+
