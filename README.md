@@ -3,7 +3,7 @@
 
 Temperature and humidity sensor using CWT-TH03S sensor via RS485. I need wired sensor in sauna for temperatures above 100 celsius. This is due to technical issues with the SHT30 sensor which was often disconnecting due to lenght of wires in my sauna. 
 
-
+FTP cable used. Each twisted pair shall be connected to own pin. It means 8 wires = 4 pairs of wires <=> 4 pins.
 
 
 Components:
