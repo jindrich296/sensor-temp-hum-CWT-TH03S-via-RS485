@@ -13,6 +13,8 @@ Components:
 - MAX485 (TTL na RS-485)
 - battery or charger
 
+POZOR! Pro oboji je potreba 5V napajeni
+
 ## Wiring
 
 | CWT-TH03S                   | connected to     |
